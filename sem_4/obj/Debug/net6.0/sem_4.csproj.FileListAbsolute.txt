@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\sem_4\bin\Debug\net6.0\sem_4.exe
+D:\GeekBrains\C#\sem_4\bin\Debug\net6.0\sem_4.deps.json
+D:\GeekBrains\C#\sem_4\bin\Debug\net6.0\sem_4.runtimeconfig.json
+D:\GeekBrains\C#\sem_4\bin\Debug\net6.0\sem_4.dll
+D:\GeekBrains\C#\sem_4\bin\Debug\net6.0\sem_4.pdb
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\sem_4.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\sem_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\sem_4.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\sem_4.AssemblyInfo.cs
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\sem_4.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\sem_4.dll
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\refint\sem_4.dll
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\sem_4.pdb
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\sem_4.genruntimeconfig.cache
+D:\GeekBrains\C#\sem_4\obj\Debug\net6.0\ref\sem_4.dll
